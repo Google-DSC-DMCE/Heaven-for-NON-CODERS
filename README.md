@@ -4,7 +4,7 @@
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st to get people involved in [Open Source](https://github.com/open-source).
-
+![gsssfdgh](https://github.com/Google-DSC-DMCE/Heaven-for-NON-CODERS/assets/111248472/f3d23a35-a917-4e8c-9655-302646bf01da)
 
 
 ## Specifically for Hacktoberfest:
@@ -14,6 +14,7 @@ A month-long celebration from October 1st - 31st to get people involved in [Open
   Your PR must be made to a public, unarchived repository.
   
   
+
 
 
 
